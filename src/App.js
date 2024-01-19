@@ -55,7 +55,4 @@ function Form({onTextChange}){
     </body>
   )
 }
-
-
-
 export default App;
